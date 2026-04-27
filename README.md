@@ -10,8 +10,4 @@ One thing I did particularly well in developing this documentation was clearly c
 
 Working through the design document before coding was very helpful because it forced me to think through the structure of the application ahead of time. It helped me understand how different components would interact, which made the coding process more straightforward.
 
-If I could revise one part of my work, I would improve the system architecture section by adding a visual diagram to better show how components communicate.
-
-When interpreting the user’s needs, I focused on scalability, usability, and performance. Considering user needs is important because the success of the software depends on how well it meets those expectations.
-
-When designing the software, I used object-oriented principles and broke the system into smaller components. In the future, I would continue using these strategies along with more visual planning tools like UML diagrams. 
+If I could revise one part of my work, I would improve the system architecture section by adding a visual diagram to better show how components communicate. When interpreting the user’s needs, I focused on scalability, usability, and performance. Considering user needs is important because the success of the software depends on how well it meets those expectations. When designing the software, I used object-oriented principles and broke the system into smaller components. In the future, I would continue using these strategies along with more visual planning tools like UML diagrams. 
